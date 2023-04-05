@@ -78,7 +78,7 @@ function writeToFile(fileName, data) {
 }
 
 //function to initialize app
-function init() {
+function createREADME() {
     inquirer.prompt(questions)
         .then((data) => {
             writeToFile('JonathanFadera.md', generateMarkdown(data));
@@ -88,4 +88,4 @@ function init() {
         }
         );
 }
-init();
+createREADME();
