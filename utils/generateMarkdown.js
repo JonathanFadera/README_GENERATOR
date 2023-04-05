@@ -42,13 +42,13 @@ ${data.name}
 ${data.description}
 
 ## Table of Contents 📖
-- [Installation](#installation 🛠️)
-- [Usage](#usage 🕹️)
+- [Installation](#installation🛠️)
+- [Usage](#usage🕹️)
 ${link(data.license)}
-- [Test](#tests 💉)
-- [Credits](#credits ©️)
-- [Questions](#questions ❓)
-- [Deployed Application](#deployed-application 🪂)
+- [Test](#tests💉)
+- [Credits](#credits©️)
+- [Questions](#questions❓)
+- [Deployed Application](#deployed-application🪂)
 
 ## Installation 🛠️
 ${data.install}
