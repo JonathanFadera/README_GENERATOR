@@ -61,7 +61,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Demo
 
-* Walkthrough video: 
+* Walkthrough video: [Link to the demo](https://watch.screencastify.com/v/a8eU7aRJBYQ7qM9IDDJR)
 
 * [GitHub Repository](https://github.com/JonathanFadera/README_GENERATOR)
 
