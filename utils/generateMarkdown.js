@@ -75,4 +75,4 @@ This application was deplopyed at [${data.deploy}](${data.deploy})
 `
 }
 
-module.exports = generateMarkdown;
+module.exports = generateMarkdown
