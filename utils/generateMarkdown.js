@@ -11,7 +11,7 @@ function badge(license) {
  // If there is no license, return an empty string
 function link(license) {
   if (license !== "None") {
-    return `- [License](#license-📄)`
+    return `- [License](#license)`
   }
   return ``;
 }
@@ -21,7 +21,7 @@ function link(license) {
 
 function section(license) {
   if (license !== "None") {
-    return `## License 📄
+    return `## License
     This application is covered by the ${license} license.`
   }
   return ``;
