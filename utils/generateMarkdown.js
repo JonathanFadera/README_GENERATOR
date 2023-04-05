@@ -8,7 +8,7 @@ function badge(license) {
 }
 
 // Function that returns license in table of contents
- // If there is no license, return an empty string
+// If there is no license, return an empty string
 function link(license) {
   if (license !== "None") {
     return `- [License](#license)`
@@ -32,7 +32,7 @@ function section(license) {
 
 
 function generateMarkdown(data) {
-return `
+  return `
 # ${data.title}
 
 ${badge(data.license)}
