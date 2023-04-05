@@ -18,7 +18,7 @@ When creating an open source project on GitHub, it’s important to have a high-
 - [Deployed Application](#deployed-application)
 
 ## Installation
-Create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. Review the Professional README Guide as a reminder of everything that a high-quality, professional README should contain.
+Create a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4).Review the [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) as a reminder of everything that a high-quality, professional README should contain.
 
 ## Usage
 As a developer, I want a README generator so that I can quickly create a professional README for a new project.
