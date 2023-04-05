@@ -30,7 +30,6 @@ function section(license) {
 
 // Function to generate markdown for README
 
-
 function generateMarkdown(data) {
   return `
 # ${data.title}
@@ -43,36 +42,36 @@ ${data.name}
 ${data.description}
 
 ## Table of Contents 📖
-- [Installation](#installation-🛠️)
-- [Usage](#usage-🕹️)
+- [Installation](#installation)
+- [Usage](#usage)
 ${link(data.license)}
-- [Test](#tests-💉)
-- [Credits](#credits-©️)
-- [Questions](#questions-❓)
-- [Deployed Application](#deployed-application-🪂)
+- [Test](#tests)
+- [Credits](#credits)
+- [Questions](#questions)
+- [Deployed Application](#deployed-application)
 
-## Installation 🛠️
+## Installation
 ${data.install}
 
-## Usage 🕹️
+## Usage
 ${data.usage}
 
 ${section(data.license)}
 
-## Tests 💉
+## Tests
 ${data.test}
 
-## Credits ©️
+## Credits
 ${data.credits}
 
-## Questions ❓
+## Questions
 If there are any questions, feel free to contact my email at: ${data.email}
 
 You can also find me on GitHub at: [${data.github}](https://www.github.com/${data.github})
 
-## Deployed Application 🪂
+## Deployed Application
 This application was deplopyed at [${data.deploy}](${data.deploy})
 `
 }
 
-module.exports = generateMarkdown
+module.exports = generateMarkdown;
