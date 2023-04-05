@@ -50,26 +50,26 @@ ${link(data.license)}
 - [Questions](#questions)
 - [Deployed Application](#deployed-application)
 
-## Installation 🛠️
+## Installation
 ${data.install}
 
-## Usage 🕹️
+## Usage
 ${data.usage}
 
 ${section(data.license)}
 
-## Tests 💉
+## Tests
 ${data.test}
 
-## Credits ©️
+## Credits
 ${data.credits}
 
-## Questions ❓
+## Questions
 If there are any questions, feel free to contact my email at: ${data.email}
 
 You can also find me on GitHub at: [${data.github}](https://www.github.com/${data.github})
 
-## Deployed Application 🪂
+## Deployed Application
 This application was deplopyed at [${data.deploy}](${data.deploy})
 `
 }
