@@ -11,7 +11,7 @@ When creating an open source project on GitHub, it’s important to have a high-
 ## Table of Contents 📖
 - [Installation](#installation)
 - [Usage](#usage-)
-- [License](#license-📄)
+- [License](#license)
 - [Test](#tests)
 - [Credits](#credits)
 - [Questions](#questions)
@@ -23,7 +23,7 @@ Create a command-line application that dynamically generates a professional READ
 ## Usage 🕹️
 As a developer, I want a README generator so that I can quickly create a professional README for a new project.
 
-## License 📄
+## License
     This application is covered by the MIT license.
 
 ## Tests 💉
@@ -38,4 +38,4 @@ If there are any questions, feel free to contact my email at: ericsonhnc@gmail.c
 You can also find me on GitHub at: [JonathanFadera](https://www.github.com/JonathanFadera)
 
 ## Deployed Application 🪂
-This application was deplopyed at [https://jonathanfadera.github.io/README_GENERATOR/](https://jonathanfadera.github.io/README_GENERATOR/)
+This application was deplopyed at [https://github.com/JonathanFadera/README_GENERATOR](https://github.com/JonathanFadera/README_GENERATOR)
