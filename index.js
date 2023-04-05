@@ -50,7 +50,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'List your collaborates',
+        message: 'List your collaborators',
         name: 'credits',
     },
     {
