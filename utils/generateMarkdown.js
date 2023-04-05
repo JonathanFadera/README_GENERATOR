@@ -38,10 +38,10 @@ ${badge(data.license)}
 
 ${data.name}
 
-## Description 📃
+## Description 
 ${data.description}
 
-## Table of Contents 📖
+## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
 ${link(data.license)}
