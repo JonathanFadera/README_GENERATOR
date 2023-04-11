@@ -70,7 +70,7 @@ If there are any questions, feel free to contact my email at: ${data.email}
 You can also find me on GitHub at: [${data.github}](https://www.github.com/${data.github})
 
 ## Deployed Application
-This application was deplopyed at [${data.deploy}](${data.deploy})
+This application was deployed at [${data.deploy}](${data.deploy})
 `
 }
 
