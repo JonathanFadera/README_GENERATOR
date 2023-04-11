@@ -81,7 +81,7 @@ function writeToFile(fileName, data) {
 function createREADME() {
     inquirer.prompt(questions)
         .then((data) => {
-            writeToFile('JonathanFadera.md', generateMarkdown(data));
+            writeToFile('README.md', generateMarkdown(data));
         })
         .catch((err) => {
             console.log(err);
