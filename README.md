@@ -23,6 +23,8 @@ Create a command-line application that dynamically generates a professional READ
 ## Usage
 As a developer, I want a README generator so that I can quickly create a professional README for a new project.
 
+[Demo Link](https://watch.screencastify.com/v/a8eU7aRJBYQ7qM9IDDJR)
+
 ## License
     This application is covered by the MIT license.
 
